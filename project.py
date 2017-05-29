@@ -36,7 +36,7 @@ def getConnectionAndCursor(): # done
     # change the db name to use your username, e.g. cs108_azs_miniFB
     conn = db.connect(host="localhost",
                   user="bm181354",
-                  passwd="4951",
+                  #passwd= #last 4 digit of student card [removed for security reason]
                   db="cs108_bm181354_project")
 
     cursor = conn.cursor()
