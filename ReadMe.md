@@ -11,23 +11,27 @@ This python project stimulates the basic digital guitar store where user can buy
 
 ## Screen Shot:
 <p>
-### Guitar Home Page:
+ Guitar Home Page:
 </p>
-  <center><img src = "http://i.imgur.com/zISw0U6.jpg" width="650" height="650"></center>
+  <center><img src = "http://i.imgur.com/zISw0U6.jpg" width="450" height="450"></center>
 <p>
-### Buy the Guitar :
+<br>
+ Buy the Guitar :
 </p>
-  <img src = http://i.imgur.com/qTZdJ3O.jpg width="650" height="650">
+  <img src = http://i.imgur.com/qTZdJ3O.jpg width="550" height="550">
 <p>
-### Shipping Address:
+<br>
+  Shipping Address:
 </p>
-  <img src = "http://i.imgur.com/To5iE6k.jpg" width="650" height="650">
+  <img src = "http://i.imgur.com/To5iE6k.jpg" width="550" height="550">
+<br>
 <p>
-### Tracking Info:
+  Tracking Info:
 </p>
-  <img src = "http://i.imgur.com/HqWxn5Z.jpg" width="650" height="650">
+  <img src = "http://i.imgur.com/HqWxn5Z.jpg" width="550" height="550">
 <p>
-### Track Package:
+<br>
+  Track Package:
 </p>
-  <img src = "http://i.imgur.com/mXrqQ5m.jpg" width="650" height="650">
+  <img src = "http://i.imgur.com/mXrqQ5m.jpg" width="550" height="550">
 
